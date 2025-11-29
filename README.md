@@ -11,7 +11,7 @@ I made this to get better at Python, so if you have any recommendations, please 
 You can clone the repo using Git:
 
 ```bash
-git clone github.com
+git clone https://github.com/Palmtree890/Swan_station_LOST/
 ```
 ### 2.Enter the directory
 ```
