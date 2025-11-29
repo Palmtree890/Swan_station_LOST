@@ -1,4 +1,4 @@
-[![GitHub stars](https://img.shields.io/github/stars/palmtree890/Swan_station_LOST?style=social)](https://github.com/palmtree890/Swan_station_LOST/stargazers) ![Repo Views](https://komarev.com/ghpvc/?username=palmtree890&repo=Swan_station_LOST&style=social&label=Repo+Views) ![GitHub top language](https://img.shields.io/github/languages/top/palmtree890/Swan_station_LOST?style=social) !
+[![GitHub stars](https://img.shields.io/github/stars/palmtree890/Swan_station_LOST?style=social)](https://github.com/palmtree890/Swan_station_LOST/stargazers) ![Repo Views](https://komarev.com/ghpvc/?username=palmtree890&repo=Swan_station_LOST&style=social&label=Repo+Views) ![GitHub top language](https://img.shields.io/github/languages/top/palmtree890/Swan_station_LOST?style=social) 
 
 # Swan Station *LOST*
 
