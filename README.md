@@ -1,3 +1,5 @@
+[![GitHub stars](https://img.shields.io/github/stars/palmtree890/Swan_station_LOST?style=social)](https://github.com/palmtree890/Swan_station_LOST/stargazers) ![Repo Views](https://komarev.com/ghpvc/?username=palmtree890&repo=Swan_station_LOST&style=social&label=Repo+Views) ![GitHub Repo size](https://img.shields.io/github/repo-size/palmtree890/Swan_station_LOST?style=social&label=Repo%20size) ![GitHub top language](https://img.shields.io/github/languages/top/palmtree890/Swan_station_LOST?style=social) !
+
 # Swan Station *LOST*
 
 This is a replica of the familiar countdown timer from the TV show LOST. It is written in Python and is available for Linux, Mac, and Windows.
