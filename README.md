@@ -1,44 +1,48 @@
 # Swan Station *LOST*
-This is a replica of the familiar countdown timer from the TV show LOST. It is written in python and is avalible for 
-linux, mac, and windows.
-I made this to get better at python so if you have any recomendations please fork this and add them, then submit a pull request.
-## How to install
-first clone the repo
-```bash
-https://github.com/Palmtree890/Swan_station_LOST
-```
-Then cd into the repo
-```bash
-cd Swan_station_LOST
-ls
-```
-Then you will make the venv (this will very from OS but I will include intructions for both)
 
-#FOR WINDOWS
+This is a replica of the familiar countdown timer from the TV show LOST. It is written in Python and is available for Linux, Mac, and Windows.
+
+I made this to get better at Python, so if you have any recommendations, please fork this and add them, then submit a pull request!
+
+## How to Install and Run
+
+### 1. Clone the Repository
+
+You can clone the repo using Git:
+
+```bash
+git clone github.com
+```
+### 2.Enter the directory
+```
+cd Swan_station_LOST
+# Use 'ls' or 'dir' to view the files and confirm you are in the correct location
+```
+### 3. Create and Activate a Virtual Environment (venv)
+## for windows
 ```powershell
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 ```
-#for Linux
-```bash
+For Linux or macOS (Bash/Zsh)
+```Bash/Zsh
 python3 -m venv venv
-source venv/bin/acivate
+source venv/bin/activate
 ```
-#For Mac
-same as linux, just change python3 to python
+(Note: On some systems, the command might be just python -m venv venv if python is already aliased to python3.)
 
-after you have made the venv its time to install the requrements but forst I reqemend updating setuptools wheel.
-```powershell
-py -m pip install --upgrade setuptools wheel
+### 4. Install Requirements
+First, ensure your package management tools are up to date:
+```bash
+python -m pip install --upgrade setuptools wheel
 ```
-Now you are ready to install the requirments. to install run this command
-```bash/powershell
+Now, install the project-specific dependencies listed in requirements.txt:
+```bash
 python -m pip install -r requirements.txt
 ```
-Now you are ready to run your LOST project
-```powershell
+### 5. Run the Project
+You are now ready to run the application!
+```bash
 python run.py
 ```
-```bash
-python3 run.py
-```
+replace python with python3 for linux
