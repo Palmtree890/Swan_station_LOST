@@ -14,16 +14,31 @@ ls
 ```
 Then you will make the venv (this will very from OS but I will include intructions for both)
 
-###FOR WINDOWS
+#FOR WINDOWS
 ```powershell
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 ```
-###for Linux
+#for Linux
 ```bash
 python3 -m venv venv
 source venv/bin/acivate
 ```
-###For Mac
+#For Mac
 same as linux, just change python3 to python
 
+after you have made the venv its time to install the requrements but forst I reqemend updating setuptools wheel.
+```powershell
+py -m pip install --upgrade setuptools wheel
+```
+Now you are ready to install the requirments. to install run this command
+```bash/powershell
+python -m pip install -r requirements.txt
+```
+Now you are ready to run your LOST project
+```powershell
+python run.py
+```
+```bash
+python3 run.py
+```
